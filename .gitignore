@@ -1,0 +1,4 @@
+1*.pyc
+2*.db
+3__pycache__/
+4.DS_Store
