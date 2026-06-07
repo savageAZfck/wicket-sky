@@ -84,8 +84,6 @@ Extend the DB agent for production migrations, backups, or more compliance check
  
 Email: savagetism@icloud.com
  
-🛑 License
-MIT (custom licensing available for white-label or consulting deals).
 💬 Need a Client-Ready Demo Log?
 Just run python3 wicketsky.py with your .py/.php sample files
 and paste all terminal output—no editing, no cleaning, no jargon.
